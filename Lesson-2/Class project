@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H1>Wolf</H1>
+    <H2>Wolf</H2>
+    <H3>Wolf</H3>
+    <H4>Wolf</H4>
+    <H5>Wolf</H5>
+    <h6>Wolf</h6>
+    <!-- All about Wolf -->
+     <p><u><b><h3>Wolves</h3></b></u>Wolves are <b><i>complex,highly intelligent animals who are caring, playful, and above all devoted to family.</i></b> . Only a select few other species exhibit these traits so clearly. Just like elephants, gorillas and dolphins, wolves <del>do not</del> educate their young, take care of their injured and live in <mark>family groups</mark>.They are really <sup>good</sup> hunting <sub>and</sub> hiding. </p>
+
+</body>
+</html>
