@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <style>
+        div{
+            border:2px solid black;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header class="container-fluid bg-secondary-subtle text-black text-center py-5">
+        <h1>Room Furniture</h1>
+    </header>
+    <center>
+        <main>
+            <section class="container-fluid mt-4">
+                <h3 class="display-4">Elevate Your Home with Stylish & Comfortable Furniture!</h3>
+                <p class="m-4">Upgrade your space with stylish, durable, and affordable furniture! From cozy sofas to elegant dining sets, our designs blend comfort and modern appeal. Find the perfect piece to transform your home today!</p>
+            </section>
+            <h2>Our Inventory</h2>
+            <section class="container-fluid mt-4">
+                <img src="https://en.pimg.jp/105/537/120/1/105537120.jpg">
+                <h2>Sofa</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil fuga dolore dolorum repudiandae inventore fugiat maxime nostrum distinctio voluptatem natus laudantium sequi ad nulla voluptate molestias, rerum veritatis quam quidem!</p>
+                <button class="btn btn-success">Buy</button>
+                <button class="btn btn-danger">Add to cart</button>
+            </section>
+            <br>
+            <section class="container-fluid mt-4">
+                <img src="https://thumbs.dreamstime.com/b/luxury-bed-isolated-white-background-showcasing-comfort-elegant-design-high-end-bedroom-decor-366745452.jpg" height="400">
+                <h2>BED</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit officiis temporibus quae, impedit sed voluptates sunt aperiam ad dolorem eligendi doloremque quibusdam ea eos obcaecati, vel consectetur, repellat rem dignissimos!</p>
+                <br><button class="btn btn-success">Buy</button>
+                <button class="btn btn-danger">Add to cart</button>
+                
+            </section>
+            <section class="container-fluid mt-4">
+                <img src="https://www.kadatables.com/wp-content/uploads/2024/11/gyroscope-table-White-background-image.jpg" height="400">
+                <h2>TABLE</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit officiis temporibus quae, impedit sed voluptates sunt aperiam ad dolorem eligendi doloremque quibusdam ea eos obcaecati, vel consectetur, repellat rem dignissimos!</p>
+                <br><button class="btn btn-success">Buy</button>
+                <button class="btn btn-danger">Add to cart</button>
+                
+            </section>
+        </main>
+    </center>
+
+
+
+</body>
+</html>
