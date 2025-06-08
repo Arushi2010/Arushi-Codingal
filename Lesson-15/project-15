@@ -30,26 +30,34 @@
             <section class="container-fluid mt-4">
                 <img src="https://en.pimg.jp/105/537/120/1/105537120.jpg">
                 <h2>Sofa</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil fuga dolore dolorum repudiandae inventore fugiat maxime nostrum distinctio voluptatem natus laudantium sequi ad nulla voluptate molestias, rerum veritatis quam quidem!</p>
+                <p>Upgrade your living space with our stylish and comfortable sofas! Designed for both elegance and relaxation, our sofas offer premium quality, durable materials, and a cozy seating experience. Whether you need a sleek modern design or a plush classic look, we have the perfect fit for your home. Transform your space today with the ultimate blend of comfort and style!</p>
                 <button class="btn btn-success">Buy</button>
                 <button class="btn btn-danger">Add to cart</button>
+                <br>
+                <br>
+                <button class="btn btn-primary">More</button>
             </section>
             <br>
             <section class="container-fluid mt-4">
                 <img src="https://thumbs.dreamstime.com/b/luxury-bed-isolated-white-background-showcasing-comfort-elegant-design-high-end-bedroom-decor-366745452.jpg" height="400">
                 <h2>BED</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit officiis temporibus quae, impedit sed voluptates sunt aperiam ad dolorem eligendi doloremque quibusdam ea eos obcaecati, vel consectetur, repellat rem dignissimos!</p>
+                <p>Looking for the perfect blend of comfort and style? Our premium beds are designed to give you the best sleep experience, with high-quality materials and modern aesthetics. Whether you prefer a plush mattress or firm support, we have options tailored to your needs. Upgrade your bedroom today and enjoy the relaxation you deserve!</p>
                 <br><button class="btn btn-success">Buy</button>
                 <button class="btn btn-danger">Add to cart</button>
+                <br>
+                <br>
+                <button class="btn btn-primary">More</button>
                 
             </section>
             <section class="container-fluid mt-4">
                 <img src="https://www.kadatables.com/wp-content/uploads/2024/11/gyroscope-table-White-background-image.jpg" height="400">
                 <h2>TABLE</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit officiis temporibus quae, impedit sed voluptates sunt aperiam ad dolorem eligendi doloremque quibusdam ea eos obcaecati, vel consectetur, repellat rem dignissimos!</p>
+                <p>Enhance your space with our beautifully crafted tables! Designed for durability and style, our tables blend functionality with elegance, making them perfect for any setting. Whether you need a sleek coffee table, a sturdy dining table, or a versatile work desk, we have the ideal piece for your home. Upgrade your space today with the perfect balance of design and practicality!</p>
                 <br><button class="btn btn-success">Buy</button>
                 <button class="btn btn-danger">Add to cart</button>
-                
+                <br>
+                <br>
+                <button class="btn btn-primary">More</button>
             </section>
         </main>
     </center>
