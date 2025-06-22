@@ -6,7 +6,7 @@ function details(a,b,c,d,e){
     console.log("My bestfriend is", e)
 }
 
-let name="Gaurav"
+let name="Arushi"
 let age=14
 let hobbies ="Learnign coding, Singing etc"
 let favanimal ="Wolf"
