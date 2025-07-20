@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body style="font-family: fantasy;">
+    <center>
+        <h1>Give the expression</h1>
+        <hr>
+        <br><br>
+        Here : <input type="text" id="exp">
+        <button onclick="calculate()">calculate</button>
+        <br><br>
+        <h3 id="result">Answer will be shown here</h3>
+    </center>
+
+    <script>
+        function calculate() {
+            exp = document.getElementById("exp").value
+            and = eval(exp)
+            document.getElementById("result")innerHTML = `The ans of (${exp}) is: ${ans}`
+        }
+    </script>
+</body>
+
+</html>
